@@ -18,5 +18,5 @@ function changeLeastFavoriteCustomer() {
 }
 
 function favoriteCustomer() {
-  favoriteCustomer = 'me'
+  let  = 'me'
 }
